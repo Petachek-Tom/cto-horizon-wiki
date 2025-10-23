@@ -25,14 +25,12 @@
             "id": "9f12a469896b20e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20251023103257.png"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251023103257"
             }
           }
         ],
@@ -109,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Pasted image 20251023103257.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для index"
+              "title": "Обратные ссылки для Pasted image 20251023103257"
             }
           },
           {
@@ -185,8 +183,12 @@
   },
   "active": "9f12a469896b20e6",
   "lastOpenFiles": [
-    "Main.md",
+    "Pasted image 20251023102836.png",
+    "Pasted image 20251023103257.png",
+    "lb/pamyatka_nastroyka.md",
     "index.md",
+    "lb",
+    "Main.md",
     "Без названия.base"
   ]
 }
