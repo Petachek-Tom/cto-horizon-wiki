@@ -25,12 +25,14 @@
             "id": "9f12a469896b20e6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20251023103257.png"
+                "file": "lb/pamyatka_nastroyka.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251023103257"
+              "icon": "lucide-file",
+              "title": "pamyatka_nastroyka"
             }
           }
         ],
@@ -107,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20251023103257.png",
+                "file": "lb/pamyatka_nastroyka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Pasted image 20251023103257"
+              "title": "Обратные ссылки для pamyatka_nastroyka"
             }
           },
           {
@@ -183,12 +185,29 @@
   },
   "active": "9f12a469896b20e6",
   "lastOpenFiles": [
+    "lb/lb.md",
+    "images/Pasted image 20251023103257.png",
+    "images/Pasted image 20251023104759.png",
+    "images/Pasted image 20251023104828.png",
+    "images/Pasted image 20251023104840.png",
+    "images/Pasted image 20251023104814.png",
     "Pasted image 20251023102836.png",
-    "Pasted image 20251023103257.png",
+    "images",
     "lb/pamyatka_nastroyka.md",
+    "mark/mark.md",
+    "frontol/frontol.md",
+    "evotor/evotor.md",
+    "devices/devices.md",
+    "1c/1c.md",
     "index.md",
-    "lb",
     "Main.md",
+    "mark",
+    "1c",
+    "devices",
+    "evotor",
+    "fmu",
+    "frontol",
+    "lb",
     "Без названия.base"
   ]
 }
