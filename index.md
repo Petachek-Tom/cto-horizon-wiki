@@ -7,9 +7,9 @@ title: Главная страница
 
 ## Категории:
 
-  - [[1c|1c]]
-  - [[evotor|evotor]]
-  - [[frontol|frontol]]
-  - [[mark|mark]]
-  - [[lb|lb]]
-  - [[devices|devices]]
+  - [[1c|1С]]
+  - [[evotor|Эвотор]]
+  - [[frontol|Фронтол]]
+  - [[mark|Маркировка]]
+  - [[lb|Лавки Бахуса]]
+  - [[devices|Оборудование]]
